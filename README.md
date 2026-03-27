@@ -1,5 +1,3 @@
-
-
 # Log Analyzer
 
 This Python project analyzes authentication logs to detect suspicious login attempts.
